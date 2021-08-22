@@ -1,0 +1,2 @@
+# Purpose
+This was project using Python, WeatherPy, and a combination of different API calls to create a travel itinerary for a potential client. We were able to base our travel search based on weather criteria supplied by the customer, using a WeatherAPI call, followed by Google API calls to find nearby cities and hotels that matched our clients weather inputs. After obtaining the city options from our API calls, we then were able to select a subsection of cities and create a google map layover that displayed travel routes for our clients new potential vacation plan
